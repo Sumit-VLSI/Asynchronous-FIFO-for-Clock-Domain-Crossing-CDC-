@@ -26,7 +26,7 @@ Simulated and verified in **Xilinx Vivado**.
 
 ## Architecture
 
-<img width="2280" height="1335" alt="async_fifo_architecture" src="https://github.com/user-attachments/assets/83840b80-9d51-4c43-bd2b-38082cf2c4e4" />
+<img width="2280" height="1335" alt="async_fifo_architecture" src="https://github.com/user-attachments/assets/33db1436-bea4-45eb-b697-99824a1e18dd" />
 
 
 The design has four building blocks:
@@ -136,13 +136,14 @@ Read[3] = a3, Expected = a3 PASS
 Read[4] = a4, Expected = a4 PASS
 Read[5] = a5, Expected = a5 PASS
 Read[6] = a6, Expected = a6 PASS
+```
 
 ### Simulation waveform
-<img width="1902" height="1015" alt="Screenshot 2026-10-23 012927" src="https://github.com/user-attachments/assets/d7b66e11-7a6d-42f9-9a16-b6ad113821ad" />
+<img width="1902" height="1015" alt="Screenshot 2026-10-23 012927" src="https://github.com/user-attachments/assets/1f9dc7f9-7f7f-47f4-99e8-e754b9a218ca" />
 
 
 ### RTL schematic (Vivado)
-<img width="1556" height="636" alt="Screenshot 2026-02-05 125719" src="https://github.com/user-attachments/assets/7c652ce4-4d2d-4e31-86c5-d53ad53178e3" />
+<img width="1556" height="636" alt="Screenshot 2026-02-05 125719" src="https://github.com/user-attachments/assets/4ac48385-f271-4449-a0e4-1cc8815951b7" />
 
 
 ---
